@@ -1,1 +1,1 @@
-Simple auth in Django.
+My Django App, cut urls and manage them
